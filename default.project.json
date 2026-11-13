@@ -1,0 +1,9 @@
+{
+  "name": "Набивай!",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": { "Juggle": { "$path": "src/shared" } },
+    "ServerScriptService": { "JuggleServer": { "$path": "src/server" } },
+    "StarterPlayer": { "StarterPlayerScripts": { "JuggleClient": { "$path": "src/client" } } }
+  }
+}

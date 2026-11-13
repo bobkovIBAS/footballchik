@@ -1,0 +1,92 @@
+{
+  "result": {
+    "aInitialHit": {
+      "view": {
+        "hud": true,
+        "profileLevel": 1,
+        "profileHP": 6,
+        "level": 1,
+        "hp": 6,
+        "coins": 0
+      },
+      "hit": {
+        "impactAt": 1794574137.307587,
+        "nextLevel": 1,
+        "id": 2,
+        "respawnAt": 0,
+        "multiplier": 2,
+        "remaining": 6,
+        "nextHP": 6,
+        "reward": 0,
+        "level": 1,
+        "startedAt": 1794574136.827587,
+        "damage": 2
+      }
+    },
+    "aDestroyed": {
+      "view": {
+        "hud": true,
+        "profileLevel": 2,
+        "profileHP": 13,
+        "level": 2,
+        "hp": 13,
+        "coins": 12
+      },
+      "hit": {
+        "impactAt": 1794574145.824025,
+        "nextLevel": 2,
+        "id": 5,
+        "respawnAt": 1794574146.594025,
+        "multiplier": 2,
+        "remaining": 0,
+        "nextHP": 13,
+        "reward": 12,
+        "level": 1,
+        "startedAt": 1794574145.344025,
+        "damage": 2
+      }
+    },
+    "westRejected": true,
+    "aAfterBHit": {
+      "hud": true,
+      "profileLevel": 2,
+      "profileHP": 13,
+      "level": 2,
+      "hp": 13,
+      "coins": 12
+    },
+    "bAfterAHit": {
+      "hud": true,
+      "profileLevel": 1,
+      "profileHP": 8,
+      "level": 1,
+      "hp": 8,
+      "coins": 0
+    },
+    "bFirstHit": {
+      "view": {
+        "hud": true,
+        "profileLevel": 1,
+        "profileHP": 6,
+        "level": 1,
+        "hp": 6,
+        "coins": 0
+      },
+      "hit": {
+        "impactAt": 1794574149.174396,
+        "nextLevel": 1,
+        "id": 2,
+        "respawnAt": 0,
+        "multiplier": 2,
+        "remaining": 6,
+        "nextHP": 6,
+        "reward": 0,
+        "level": 1,
+        "startedAt": 1794574148.694396,
+        "damage": 2
+      }
+    },
+    "clients": 2
+  },
+  "success": true
+}

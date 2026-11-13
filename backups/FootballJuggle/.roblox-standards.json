@@ -1,0 +1,5 @@
+{
+  "schema_version": 1,
+  "design_profile": "docs/design/README.md",
+  "auto_init": true
+}

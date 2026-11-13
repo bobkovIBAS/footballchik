@@ -1,0 +1,18 @@
+{
+  "name": "fotball UIV2 Preview",
+  "tree": {
+    "$className": "DataModel",
+    "Workspace": {
+      "$className": "Workspace",
+      "$attributes": { "FootballUIVersion": 2 },
+      "$properties": { "StreamingEnabled": true }
+    },
+    "StarterGui": {
+      "$className": "StarterGui",
+      "$properties": { "ScreenOrientation": "Sensor" }
+    },
+    "ReplicatedStorage": { "Juggle": { "$path": "src/shared" } },
+    "ServerScriptService": { "JuggleServer": { "$path": "src/server" } },
+    "StarterPlayer": { "StarterPlayerScripts": { "JuggleClient": { "$path": "src/client" } } }
+  }
+}

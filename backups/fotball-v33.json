@@ -1,0 +1,134 @@
+{
+  "hash": 511470102,
+  "streaming": true,
+  "version": 33,
+  "place": 129281551646182,
+  "lighting": {
+    "ExposureCompensation": 0.019999999552965164,
+    "LightingStyle": "Enum.LightingStyle.Soft",
+    "EnvironmentDiffuseScale": 0.5099999904632568,
+    "EnvironmentSpecularScale": 0.3199999928474426,
+    "ClockTime": 14.449999809265137,
+    "GeographicLatitude": 31,
+    "Ambient": {
+      "1": 0.47843137383461,
+      "2": 0.5176470875740051,
+      "3": 0.5882353186607361
+    },
+    "OutdoorAmbient": {
+      "1": 0.6000000238418579,
+      "2": 0.6431372761726379,
+      "3": 0.7098039388656616
+    },
+    "GlobalShadows": true,
+    "Brightness": 2.4000000953674316,
+    "ShadowSoftness": 0.3499999940395355,
+    "PrioritizeLightingQuality": true
+  },
+  "terrainRegion": "-32000, -32000, -32000; 32000, 32000, 32000",
+  "camera": {
+    "1": -46.07548141479492,
+    "2": 7.4772539138793945,
+    "3": -26.206226348876953,
+    "4": -0.30750879645347595,
+    "5": -0.26937782764434814,
+    "6": 0.9126192927360535,
+    "7": 0,
+    "8": 0.9590919017791748,
+    "9": 0.283095121383667,
+    "10": -0.9515452980995178,
+    "11": 0.08705423772335052,
+    "12": -0.2949291467666626
+  },
+  "placeId": 129281551646182,
+  "orientation": "Sensor",
+  "gravity": 196.1999969482422,
+  "len": 259602,
+  "objects": [
+    [
+      "Workspace",
+      "Terrain",
+      "Terrain"
+    ],
+    [
+      "Workspace",
+      "FootballCampus",
+      "Model"
+    ],
+    [
+      "Lighting",
+      "Sky",
+      "Sky"
+    ],
+    [
+      "Lighting",
+      "SunRays",
+      "SunRaysEffect"
+    ],
+    [
+      "Lighting",
+      "Atmosphere",
+      "Atmosphere"
+    ],
+    [
+      "Lighting",
+      "Bloom",
+      "BloomEffect"
+    ],
+    [
+      "Lighting",
+      "DepthOfField",
+      "DepthOfFieldEffect"
+    ],
+    [
+      "Lighting",
+      "CampusColor",
+      "ColorCorrectionEffect"
+    ],
+    [
+      "ServerStorage",
+      "AcademyBeforeLayout8",
+      "Folder"
+    ],
+    [
+      "ServerScriptService",
+      "JuggleServer",
+      "Folder"
+    ],
+    [
+      "ReplicatedStorage",
+      "Juggle",
+      "Folder"
+    ],
+    [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "StarterPlayerScripts"
+    ],
+    [
+      "StarterPlayer",
+      "StarterCharacterScripts",
+      "StarterCharacterScripts"
+    ],
+    [
+      "TextChatService",
+      "ChatWindowConfiguration",
+      "ChatWindowConfiguration"
+    ],
+    [
+      "TextChatService",
+      "ChatInputBarConfiguration",
+      "ChatInputBarConfiguration"
+    ],
+    [
+      "TextChatService",
+      "BubbleChatConfiguration",
+      "BubbleChatConfiguration"
+    ],
+    [
+      "TextChatService",
+      "ChannelTabsConfiguration",
+      "ChannelTabsConfiguration"
+    ]
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "hash": 2206133774,
+  "streaming": true,
+  "lighting": {
+    "ExposureCompensation": 0.019999999552965164,
+    "LightingStyle": "Enum.LightingStyle.Soft",
+    "EnvironmentDiffuseScale": 0.5099999904632568,
+    "EnvironmentSpecularScale": 0.3199999928474426,
+    "ClockTime": 14.449999809265137,
+    "GeographicLatitude": 31,
+    "Ambient": {
+      "1": 0.47843137383461,
+      "2": 0.5176470875740051,
+      "3": 0.5882353186607361
+    },
+    "OutdoorAmbient": {
+      "1": 0.6000000238418579,
+      "2": 0.6431372761726379,
+      "3": 0.7098039388656616
+    },
+    "GlobalShadows": true,
+    "Brightness": 2.4000000953674316,
+    "ShadowSoftness": 0.3499999940395355,
+    "PrioritizeLightingQuality": true
+  },
+  "gravity": 196.1999969482422,
+  "objects": [
+    [
+      "Workspace",
+      "Terrain",
+      "Terrain"
+    ],
+    [
+      "Workspace",
+      "FootballCampus",
+      "Model"
+    ],
+    [
+      "Lighting",
+      "Sky",
+      "Sky"
+    ],
+    [
+      "Lighting",
+      "SunRays",
+      "SunRaysEffect"
+    ],
+    [
+      "Lighting",
+      "Atmosphere",
+      "Atmosphere"
+    ],
+    [
+      "Lighting",
+      "Bloom",
+      "BloomEffect"
+    ],
+    [
+      "Lighting",
+      "DepthOfField",
+      "DepthOfFieldEffect"
+    ],
+    [
+      "Lighting",
+      "CampusColor",
+      "ColorCorrectionEffect"
+    ],
+    [
+      "ServerStorage",
+      "AcademyBeforeLayout8",
+      "Folder"
+    ],
+    [
+      "ServerScriptService",
+      "JuggleServer",
+      "Folder"
+    ],
+    [
+      "ReplicatedStorage",
+      "Juggle",
+      "Folder"
+    ],
+    [
+      "StarterPlayer",
+      "StarterPlayerScripts",
+      "StarterPlayerScripts"
+    ],
+    [
+      "StarterPlayer",
+      "StarterCharacterScripts",
+      "StarterCharacterScripts"
+    ],
+    [
+      "TextChatService",
+      "ChatWindowConfiguration",
+      "ChatWindowConfiguration"
+    ],
+    [
+      "TextChatService",
+      "ChatInputBarConfiguration",
+      "ChatInputBarConfiguration"
+    ],
+    [
+      "TextChatService",
+      "BubbleChatConfiguration",
+      "BubbleChatConfiguration"
+    ],
+    [
+      "TextChatService",
+      "ChannelTabsConfiguration",
+      "ChannelTabsConfiguration"
+    ]
+  ],
+  "camera": {
+    "1": -48.74055862426758,
+    "2": 7.076788902282715,
+    "3": -23.80879020690918,
+    "4": 0.9068950414657593,
+    "5": 0.03491520509123802,
+    "6": -0.41990748047828674,
+    "7": 0,
+    "8": 0.9965609312057495,
+    "9": 0.08286380022764206,
+    "10": 0.42135652899742126,
+    "11": -0.07514876872301102,
+    "12": 0.903776228427887
+  },
+  "version": 34,
+  "scripts": {
+    "StarterPlayer.StarterPlayerScripts.JuggleClient.Main": {
+      "1": 4844,
+      "2": 3738569736
+    },
+    "ServerScriptService.JuggleServer.Pitch": {
+      "1": 1477,
+      "2": 3896434723
+    },
+    "ServerScriptService.JuggleServer.CampusArt": {
+      "1": 17527,
+      "2": 4280028189
+    },
+    "StarterPlayer.StarterPlayerScripts.JuggleClient.ShotGauge": {
+      "1": 5433,
+      "2": 174449686
+    },
+    "StarterPlayer.StarterPlayerScripts.JuggleClient.Hud": {
+      "1": 13620,
+      "2": 3095363623
+    },
+    "ServerScriptService.JuggleServer.AcademyPlaza": {
+      "1": 16602,
+      "2": 2508096139
+    },
+    "ServerScriptService.JuggleServer.TrainingArena": {
+      "1": 10042,
+      "2": 2576547674
+    },
+    "StarterPlayer.StarterPlayerScripts.JuggleClient.Clubhouse": {
+      "1": 19617,
+      "2": 803954450
+    },
+    "ReplicatedStorage.Juggle.GoalRules": {
+      "1": 3247,
+      "2": 798373959
+    },
+    "StarterPlayer.StarterPlayerScripts.JuggleClient.UiKit": {
+      "1": 4380,
+      "2": 4111199983
+    },
+    "StarterPlayer.StarterPlayerScripts.JuggleClient.GoalView": {
+      "1": 14825,
+      "2": 3521738356
+    },
+    "ReplicatedStorage.Juggle.Balance": {
+      "1": 2703,
+      "2": 531602071
+    },
+    "StarterPlayer.StarterPlayerScripts.JuggleClient.Effects": {
+      "1": 22314,
+      "2": 3128667680
+    },
+    "ServerScriptService.JuggleServer.GoalShot": {
+      "1": 1367,
+      "2": 1023625207
+    },
+    "ReplicatedStorage.Juggle.ClubRules": {
+      "1": 5423,
+      "2": 489193514
+    },
+    "StarterPlayer.StarterPlayerScripts.JuggleClient.KickMotion": {
+      "1": 9664,
+      "2": 3782379376
+    },
+    "ServerScriptService.JuggleServer.Profiles": {
+      "1": 3460,
+      "2": 4090811218
+    },
+    "ServerScriptService.JuggleServer.GoalCourse": {
+      "1": 6313,
+      "2": 2297473753
+    },
+    "StarterPlayer.StarterPlayerScripts.JuggleClient.ClubUI": {
+      "1": 12038,
+      "2": 882682488
+    },
+    "ServerScriptService.JuggleServer.WorldKit": {
+      "1": 12043,
+      "2": 1039589625
+    },
+    "ServerScriptService.JuggleServer.ClubMap": {
+      "1": 9559,
+      "2": 2859737753
+    },
+    "ServerScriptService.JuggleServer.Main": {
+      "1": 23966,
+      "2": 3225514364
+    }
+  },
+  "len": 259277,
+  "place": 129281551646182,
+  "orientation": "Sensor"
+}
